@@ -1,4 +1,3 @@
-from matplotlib.pyplot import get
 import requests, re, random, string
 
 def __int_to_base(x: int, base: int) -> str:
